@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Hotel Cape Town",
+    "nightly_rate": 1500,
+    "stars": 4,
+    "distance_from_airport": 15
+  },
+  {
+    "id": 1,
+    "name": "Ocean View Lodge",
+    "nightly_rate": 3200,
+    "stars": 3,
+    "distance_from_airport": 42
+  },
+  {
+    "id": 2,
+    "name": "Karoo Desert Retreat",
+    "nightly_rate": 5800,
+    "stars": 4,
+    "distance_from_airport": 110
+  },
+  {
+    "id": 3,
+    "name": "Mountain Peak Hotel",
+    "nightly_rate": 4500,
+    "stars": 5,
+    "distance_from_airport": 88
+  },
+  {
+    "id": 4,
+    "name": "Harbourfront Suites",
+    "nightly_rate": 12000,
+    "stars": 5,
+    "distance_from_airport": 19
+  }
+]
